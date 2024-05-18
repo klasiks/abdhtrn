@@ -7,20 +7,7 @@
         "creatorAvatar": "images/avatar.jpg",
         "item": [
             {
-                "id": "3561b976aaee948e6b8b501ca2753aa5",
-                "name": "Bexit Tilesh",
-                "artist": "",
-                "album": "",
-                "url": "static/Bexit Tilesh.mp3",
-                "pic": "",
-                "lyric": "",
-                "source": "local",
-                "url_id": "3561b976aaee948e6b8b501ca2753aa5",
-                "pic_id": "",
-                "lyric_id": ""
-            },
-            {
-                "id": "61dbbde55bc2be90a369321d08cc8ca6",
+                "id": "1c802db317d6cad74ecab57b732a80a3",
                 "name": "Güzelim Yoq",
                 "artist": "",
                 "album": "",
@@ -28,25 +15,25 @@
                 "pic": "",
                 "lyric": "",
                 "source": "local",
-                "url_id": "61dbbde55bc2be90a369321d08cc8ca6",
+                "url_id": "1c802db317d6cad74ecab57b732a80a3",
                 "pic_id": "",
                 "lyric_id": ""
             },
             {
-                "id": "bad1c309dfab6335af674067525dafec",
-                "name": "Kechür Qizchaq",
+                "id": "a61c022ddc12c2016f3f877e98ea0f9b",
+                "name": "Bexit Tilesh",
                 "artist": "",
                 "album": "",
-                "url": "static/Kechür Qizchaq.mp3",
+                "url": "static/Bexit Tilesh.mp3",
                 "pic": "",
                 "lyric": "",
                 "source": "local",
-                "url_id": "bad1c309dfab6335af674067525dafec",
+                "url_id": "a61c022ddc12c2016f3f877e98ea0f9b",
                 "pic_id": "",
                 "lyric_id": ""
             },
             {
-                "id": "2417712c12b65aa117e2f48dee5d63ee",
+                "id": "3ec6b19e4257458eab427d15a8f229aa",
                 "name": "Ketme Jénim",
                 "artist": "",
                 "album": "",
@@ -54,12 +41,25 @@
                 "pic": "",
                 "lyric": "",
                 "source": "local",
-                "url_id": "2417712c12b65aa117e2f48dee5d63ee",
+                "url_id": "3ec6b19e4257458eab427d15a8f229aa",
                 "pic_id": "",
                 "lyric_id": ""
             },
             {
-                "id": "c0926344518a6b92728a3d42617afe2e",
+                "id": "3c93dfff43538ad63f332a6d8ad6aae7",
+                "name": "Kechür Qizchaq",
+                "artist": "",
+                "album": "",
+                "url": "static/Kechür Qizchaq.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "3c93dfff43538ad63f332a6d8ad6aae7",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "15627b4180f8a9b3fd7ea71cc239982a",
                 "name": "Tamaka Bayan",
                 "artist": "",
                 "album": "",
@@ -67,7 +67,7 @@
                 "pic": "",
                 "lyric": "",
                 "source": "local",
-                "url_id": "c0926344518a6b92728a3d42617afe2e",
+                "url_id": "15627b4180f8a9b3fd7ea71cc239982a",
                 "pic_id": "",
                 "lyric_id": ""
             }
